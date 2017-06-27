@@ -64,15 +64,15 @@ added more recently.
 
 Filelist
 ========
-ch1.tex - Introduction
-ch2.tex - Fundamentals
-ch3.tex - Reading "C" Programs
-ch4.tex - An Overview
-ch5.tex - Two Files
-ch6.tex - Getting Started
-ch7.tex - Processes
-ch8.tex - Process Management
-ch9.tex - Hardware Interrupprs and Traps
+ch1.tex  - Introduction
+ch2.tex  - Fundamentals
+ch3.tex  - Reading "C" Programs
+ch4.tex  - An Overview
+ch5.tex  - Two Files
+ch6.tex  - Getting Started
+ch7.tex  - Processes
+ch8.tex  - Process Management
+ch9.tex  - Hardware Interrupprs and Traps
 ch10.tex - The Assmembler "Trap" Routine
 ch11.tex - Clock Interrupts
 ch12.tex - Traps and System Calls
