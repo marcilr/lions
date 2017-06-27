@@ -62,6 +62,7 @@ added more recently.
 -rw-r--r--  1 grog  wheel   8371 May 19  1994 preface.tex
 -rw-r--r--  1 grog  wheel   1183 May 19  1994 title.tex
 
+
 Filelist
 ========
 ch1.tex  - Introduction
@@ -92,9 +93,16 @@ ch25.tex - The File "tty.c"
 ch26.tex - Suggested Exercises
 
 fig23_1.tex
+  ch23.tex:37:\input{fig23_1.tex}
+
 fig23_2.tex
+  ch23.tex:39:\input{fig23_2.tex}
+
 fig23_3.tex
+  ch23.tex:61:\input{fig23_3.tex}
+
 fig23_4.tex
+  ch23.tex:80:\input{fig23_4.tex}
 
 lionc.pdf
 lionc.tex
