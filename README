@@ -92,16 +92,24 @@ ch24.tex - Interactive Terminals
 ch25.tex - The File "tty.c"
 ch26.tex - Suggested Exercises
 
+"Figures 23.1 through 23.4 illustrate the development
+of a list as characters are deleted and added.", 
+Chapter 23, Character Handling, p. 100
+
 fig23_1.tex
+  Figure 23.1
   ch23.tex:37:\input{fig23_1.tex}
 
 fig23_2.tex
+  Figure 23.2
   ch23.tex:39:\input{fig23_2.tex}
 
 fig23_3.tex
+  Figure 23.3
   ch23.tex:61:\input{fig23_3.tex}
 
 fig23_4.tex
+  Figure 23.4
   ch23.tex:80:\input{fig23_4.tex}
 
 lionc.pdf
