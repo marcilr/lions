@@ -97,13 +97,9 @@ fig23_3.tex
 fig23_4.tex
 
 lionc.pdf
-  A Commentary on the Sixth Edition Unix Operating System
-  by J. Lions.
-  Department of Computer Science
-  The University of New South Wales
-  Copyright 1977 J. Lions
-
 lionc.tex
+  LaTeX source and built PDF for:
+
   A Commentary on the Sixth Edition Unix Operating System
   by J. Lions.
   Department of Computer Science
