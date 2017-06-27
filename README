@@ -1,0 +1,60 @@
+README
+Created Wed Jan 27 16:41:05 AKST 2010
+by Raymond E. Marcil
+
+
+Wed Jan 27 16:41:05 AKST 2010
+=============================
+The Makefile worked fine!.  Was able to use ps2pdf to convert the resultant 
+lionc.ps without any problems.
+
+This directory contains the source code for the John Lion's "A commentary on the
+Sixth Edition UNIX Operating System". This form of the document was published
+on the USENET alt.folklore.computers newsgroup in May 1994. A Makefile was 
+added more recently.
+
+-rw-r--r--  1 grog  wheel    702 Apr 14 11:46 Makefile
+-rw-r--r--  1 grog  wheel    365 May 19  1994 Readme
+-rw-r--r--  1 grog  wheel  11393 May 19  1994 ch1.tex
+-rw-r--r--  1 grog  wheel  11773 May 19  1994 ch10.tex
+-rw-r--r--  1 grog  wheel   8649 May 19  1994 ch11.tex
+-rw-r--r--  1 grog  wheel  16486 May 19  1994 ch12.tex
+-rw-r--r--  1 grog  wheel  23125 May 19  1994 ch13.tex
+-rw-r--r--  1 grog  wheel  12030 May 19  1994 ch14.tex
+-rw-r--r--  1 grog  wheel  10387 May 19  1994 ch15.tex
+-rw-r--r--  1 grog  wheel   7700 May 19  1994 ch16.tex
+-rw-r--r--  1 grog  wheel  11983 May 19  1994 ch17.tex
+-rw-r--r--  1 grog  wheel  21467 May 19  1994 ch18.tex
+-rw-r--r--  1 grog  wheel  17061 May 19  1994 ch19.tex
+-rw-r--r--  1 grog  wheel  19826 May 19  1994 ch2.tex
+-rw-r--r--  1 grog  wheel  22445 May 19  1994 ch20.tex
+-rw-r--r--  1 grog  wheel   3955 May 19  1994 ch21.tex
+-rw-r--r--  1 grog  wheel  15300 May 19  1994 ch22.tex
+-rw-r--r--  1 grog  wheel  13833 May 19  1994 ch23.tex
+-rw-r--r--  1 grog  wheel  16660 May 19  1994 ch24.tex
+-rw-r--r--  1 grog  wheel  17348 May 19  1994 ch25.tex
+-rw-r--r--  1 grog  wheel   8026 May 19  1994 ch26.tex
+-rw-r--r--  1 grog  wheel  26043 May 19  1994 ch3.tex
+-rw-r--r--  1 grog  wheel  15468 May 19  1994 ch4.tex
+-rw-r--r--  1 grog  wheel  21579 May 19  1994 ch5.tex
+-rw-r--r--  1 grog  wheel  20607 May 19  1994 ch6.tex
+-rw-r--r--  1 grog  wheel  20908 May 19  1994 ch7.tex
+-rw-r--r--  1 grog  wheel  16345 May 19  1994 ch8.tex
+-rw-r--r--  1 grog  wheel  12312 May 19  1994 ch9.tex
+-rw-r--r--  1 grog  wheel   1822 May 19  1994 fig23_1.tex
+-rw-r--r--  1 grog  wheel   1757 May 19  1994 fig23_2.tex
+-rw-r--r--  1 grog  wheel   1680 May 19  1994 fig23_3.tex
+-rw-r--r--  1 grog  wheel   1819 May 19  1994 fig23_4.tex
+-rw-r--r--  1 grog  wheel   2116 May 19  1994 lionc.tex
+-rw-r--r--  1 grog  wheel   8371 May 19  1994 preface.tex
+-rw-r--r--  1 grog  wheel   1183 May 19  1994 title.tex
+
+
+Links
+=====
+John Lion's "A commentary on the Sixth Edition UNIX Operating System"
+http://www.lemis.com/grog/Documentation/Lions/
+
+Source code
+John Lion's "A commentary on the Sixth Edition UNIX Operating System"
+http://www.lemis.com/grog/Documentation/Lions/book/
