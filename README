@@ -3,6 +3,19 @@ Created Wed Jan 27 16:41:05 AKST 2010
 by Raymond E. Marcil
 
 
+A Commentary on the Sixth Edition Unix Operating System
+by J. Lions.
+Department of Computer Science
+The University of New South Wales
+Copyright 1977 J. Lions
+
+
+Tue Jun 27 09:16:38 AKDT 2017
+=============================
+Migrated Lion's book from subversion to git.
+Updated README's filelist
+
+
 Wed Jan 27 16:41:05 AKST 2010
 =============================
 The Makefile worked fine!.  Was able to use ps2pdf to convert the resultant 
@@ -51,6 +64,55 @@ added more recently.
 
 Filelist
 ========
+ch1.tex - Introduction
+ch2.tex - Fundamentals
+ch3.tex - Reading "C" Programs
+ch4.tex - An Overview
+ch5.tex - Two Files
+ch6.tex - Getting Started
+ch7.tex - Processes
+ch8.tex - Process Management
+ch9.tex - Hardware Interrupprs and Traps
+ch10.tex - The Assmembler "Trap" Routine
+ch11.tex - Clock Interrupts
+ch12.tex - Traps and System Calls
+ch13.tex - Software Interrupts
+ch14.tex - Program Swapping
+ch15.tex - Introduction to Basic I/O
+ch16.tex - The RK Disk Driver
+ch17.tex - Buffer Manipulation
+ch18.tex - File Access and Control
+ch19.tex - File Directories and Directory Files
+ch20.tex - File Systems
+ch21.tex - Pipes
+ch22.tex - Character Oriented Special Files
+ch23.tex - Character Handling
+ch24.tex - Interactive Terminals
+ch25.tex - The File "tty.c"
+ch26.tex - Suggested Exercises
+
+fig23_1.tex
+fig23_2.tex
+fig23_3.tex
+fig23_4.tex
+
+lionc.pdf
+  A Commentary on the Sixth Edition Unix Operating System
+  by J. Lions.
+  Department of Computer Science
+  The University of New South Wales
+  Copyright 1977 J. Lions
+
+lionc.tex
+  A Commentary on the Sixth Edition Unix Operating System
+  by J. Lions.
+  Department of Computer Science
+  The University of New South Wales
+  Copyright 1977 J. Lions
+
+Makefile 
+  Makefile for Lions Book
+
 preface.tex
   The Lion's Commentary, file preface.tex, version 1.5, 18 May 1994
 
